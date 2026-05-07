@@ -1,0 +1,57 @@
+---
+title: ""
+---
+
+::: {.columns}
+
+::: {.column width="28%"}
+
+::: {.sidebar-profile}
+
+![](photo.jpeg)
+
+**Mutahir Sultan**
+
+PhD Student in Agricultural and Resource Economics  
+Colorado State University
+
+📍 Fort Collins, Colorado  
+
+✉️ [Email](mailto:mutahir.sultan@colostate.edu)  
+
+[Google Scholar](https://scholar.google.com/citations?user=xz34ZLYAAAAJ&hl=en)  
+
+[ORCID](https://orcid.org/0009-0002-0754-8565)
+
+[GitHub](https://github.com/mutahirsultan111)
+
+[LinkedIn](https://www.linkedin.com/in/mutahir-sultan-2507675a)  
+
+:::
+
+:::
+
+::: {.column width="72%"}
+
+::: {.main-content}
+
+# Welcome!
+
+I am a PhD student in the Department of Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and resource economics, agricultural conservation practices, climate risk, flood damages, crop insurance, and water resource economics.
+
+## Research Focus
+
+My dissertation examines how agricultural conservation practices affect climate-related risks and environmental outcomes.
+
+- **Cover crops and planting failure:** How cover crop adoption affects prevented planting losses across regions, weather conditions, and cropping systems.
+
+- **Conservation and flood damages:** Whether upstream cover cropping practices reduce runoff, improve watershed hydrology, and mitigate downstream flood damages.
+
+- **Conservation and property values:** How reductions in flood risk and improvements in water quality affect housing markets and property values.
+
+:::
+
+:::
+
+:::
+---

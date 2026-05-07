@@ -1,0 +1,15 @@
+{
+  "hash": "ecd7e9a61a38f1783d694ee77236b5a5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"mutahir-website\"\n---\n\n# Mutahir Sultan\n\nPhD student in the Department of Agricultural and Resource Economics  (DARE)\nColorado State University (CSU)\n\n\n## About Me\n\nI am a PhD student the Department Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and resource economics, agricultural conservation practices, climate risk, flood damages and crop insurance.\n\n## Research Interests\n\n- Environmental and Resource Economics\n- Applied Microeconomics\n- Agricultural Conservation\n- Climate Risk and Adaptation\n\n## Current Research\n\nThe first chapter of my PhD dissertation examines how conservation practices, particularly cover crop adoption, affect planting failure risk in the United States, with a focus on heterogeneity across time and space. The second chapter studies the effects of agricultural conservation practices on flood damages, examining whether upstream cover cropping practices improve soil properties, reduce runoff, alter watershed hydrology, and mitigate downstream flood damages. The third chapter aims to investigate how reductions in flood risk and improvements in water quality resulting from agricultural conservation practices affect housing markets and property values.\n\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

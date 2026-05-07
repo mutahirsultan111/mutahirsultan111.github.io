@@ -1,0 +1,16 @@
+---
+title: "Curriculum Vitae"
+---
+
+You can view or download my CV using the link below:
+
+[Download CV (PDF)](Mutahir_Sultan_CV.pdf)
+
+```{=html}
+<iframe 
+  src="Mutahir_Sultan_CV.pdf"
+  width="100%"
+  height="900px">
+</iframe>
+```
+---
