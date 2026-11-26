@@ -2,10 +2,13 @@
 title: "Research"
 ---
 
+My research uses applied microeconomics to study how producers respond to environmental risks and policy incentives. I examine how their decisions affect farm outcomes, public water systems, and downstream communities.
+
 ## Working Papers
 
-Agricultural Land Use and Nitrate in Public Drinking Water
-How does farming affect the quality and cost of public drinking water, and who bears those costs? Using nitrate measurements from nearly 28,000 community water systems serving about 133 million people, we find that nitrate rises within weeks of rainfall in river-supplied systems with more upstream farmland. In systems that rely on wells, higher nitrate levels are associated with earlier agricultural land use. Existing agricultural land is associated with an estimated $102 million in annual water-supply costs across the systems included in the cost analysis. Groundwater systems serving fewer than 10,000 people account for 88 percent of the estimated groundwater costs. These findings can help agencies target conservation funding to protect both surface-water and groundwater supplies.
+### Agricultural Land Use and Nitrate in Public Drinking Water
+
+How does farming affect the quality and cost of public drinking water, and who bears those costs? Using nitrate measurements from nearly 28,000 community water systems serving about 133 million people, we find that nitrate rises within weeks of rainfall in river-supplied systems with more upstream farmland. In systems that rely on wells, higher nitrate levels are associated with earlier agricultural land use. Existing agricultural land is associated with an estimated $102 million in annual water-supply costs across the systems included in the cost analysis. Groundwater systems serving fewer than 10,000 people account for 88 percent of the estimated groundwater costs. The findings can help agencies target conservation funding based on where communities get their drinking water.
 
 ### The Heterogeneous Effects of Cover Crop Adoption on Prevented Planting Losses
 

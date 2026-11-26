@@ -1,57 +1,31 @@
 ---
 title: ""
+pagetitle: "Mutahir Sultan | Applied Microeconomist"
+description: "Mutahir Sultan is a Ph.D. candidate at Colorado State University. His research focuses on applied microeconomics, environmental risk, and public policy."
 ---
 
-::: {.columns}
+:::: {.job-market-home}
 
-::: {.column width="28%"}
+::: {.job-market-intro}
 
-::: {.sidebar-profile}
+# Mutahir Sultan
 
-![](photo.jpeg)
+[Ph.D. Candidate in Agricultural and Resource Economics · Colorado State University]{.job-market-affiliation}
 
-**Mutahir Sultan**
+I am an applied microeconomist working in environmental and resource economics and public policy. I study how agricultural producers respond to weather risk and policy, and how their decisions affect nearby and downstream communities.
 
-PhD Student in Agricultural and Resource Economics  
-Colorado State University
+My current work examines who bears the costs of agricultural nitrate in public drinking water, how farm drainage affects downstream flood risk, and when conservation practices reduce crop losses. I am also developing research on how crop insurance and conservation programs shape producers’ incentives to manage risk.
 
-📍 Fort Collins, Colorado  
+[Research](research.qmd){.btn .btn-primary} [CV (PDF)](Mutahir_Sultan_CV.pdf){.btn .btn-outline-primary}
 
-✉️ [Email](mailto:mutahir.sultan@colostate.edu)  
-
-[Google Scholar](https://scholar.google.com/citations?user=xz34ZLYAAAAJ&hl=en)  
-
-[ORCID](https://orcid.org/0009-0002-0754-8565)
-
-[GitHub](https://github.com/mutahirsultan111)
-
-[LinkedIn](https://www.linkedin.com/in/mutahir-sultan-2507675a)  
+[Email](mailto:mutahir.sultan@colostate.edu) · [Google Scholar](https://scholar.google.com/citations?user=xz34ZLYAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0002-0754-8565) · [GitHub](https://github.com/mutahirsultan111) · [LinkedIn](https://www.linkedin.com/in/mutahir-sultan-2507675a)
 
 :::
 
-:::
+::: {.job-market-portrait}
 
-::: {.column width="72%"}
-
-::: {.main-content}
-
-# Welcome!
-
-I am a PhD student in the Department of Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and resource economics, agricultural conservation practices, climate risk, flood damages, crop insurance, and water resource economics.
-
-## Research Focus
-
-My dissertation examines how agricultural conservation practices affect climate-related risks and environmental outcomes.
-
-- **Cover crops and planting failure:** How cover crop adoption affects prevented planting losses across regions, weather conditions, and cropping systems.
-
-- **Conservation and flood damages:** Whether upstream cover cropping practices reduce runoff, improve watershed hydrology, and mitigate downstream flood damages.
-
-- **Conservation and property values:** How reductions in flood risk and improvements in water quality affect housing markets and property values.
+<div><img src="photo.jpeg" alt="Portrait of Mutahir Sultan"></div>
 
 :::
 
-:::
-
-:::
----
+::::
