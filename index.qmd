@@ -113,6 +113,7 @@ My work focuses on drinking-water quality, downstream flood risk, and agricultur
 
 ::::
 
+```{=html}
 <section class="home-research" aria-labelledby="selected-research">
   <h2 id="selected-research">Selected research</h2>
   <div class="research-grid">
@@ -130,3 +131,4 @@ My work focuses on drinking-water quality, downstream flood risk, and agricultur
     </a>
   </div>
 </section>
+```
