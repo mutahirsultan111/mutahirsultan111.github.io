@@ -1,21 +1,10 @@
 ---
 title: "About Me"
+search: false
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://mutahirsultan111.github.io/">
+    <meta http-equiv="refresh" content="0; url=index.html#about-me">
 ---
 
-I am a Ph.D. candidate in Agricultural and Resource Economics at [Colorado State University](https://www.colostate.edu/). I expect to earn my Ph.D. in summer 2027.
-
-Prior to joining Colorado State University, I earned a Master’s degree in Economics from the [Institute of Business Administration (IBA), Karachi](https://www.iba.edu.pk/) in Pakistan. My graduate training focused on econometrics, development economics, and international trade. I completed my undergraduate studies in Economics at [Quaid-i-Azam University](https://qau.edu.pk/), Islamabad, Pakistan.
-
-During my PhD at Colorado State University, I have been involved in research assistantship roles. I was part of an interdisciplinary research project examining subsurface drip irrigation efficiency and deficit irrigation strategies for alfalfa production in Colorado, the [Subsurface Irrigation Efficiency Project (SIEP)](https://www.siepwater.com/). The project evaluated how irrigation management practices influence agricultural water use efficiency and production outcomes under water scarcity conditions.
-
-## Research Interests
-
-**Drinking water and environmental policy.** I study how agricultural land use relates to nitrate in public drinking water, which water systems bear the costs, and where conservation could help protect water supplies.
-
-**Farm adaptation and downstream flood risk.** I examine whether subsurface farm drainage, which helps producers manage excess water on their fields, changes flood damages in downstream communities.
-
-**Agricultural conservation and production risk.** I study when cover crops reduce losses from weather that prevents planting and how those benefits vary across crops and regions.
-
-**Crop insurance and conservation incentives.** I am developing research on how crop insurance coverage affects producers’ incentives to reduce production risk and whether conservation payments change those decisions.
-
-**Water allocation and irrigation.** Through my work in western Colorado, I examine how corn and alfalfa producers weigh the water savings and yield risks of deficit irrigation and how opportunities to trade water affect those choices.
+[Read About Me on the homepage](index.qmd#about-me).

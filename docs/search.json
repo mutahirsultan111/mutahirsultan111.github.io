@@ -4,21 +4,7 @@
     "href": "index.html",
     "title": "Mutahir Sultan",
     "section": "",
-    "text": "Ph.D. Candidate in Agricultural and Resource EconomicsColorado State University\nI am an applied microeconomist working in environmental and resource economics and public policy. I study how agricultural producers respond to weather risk and policy, and how their decisions affect nearby and downstream communities.\nMy work focuses on drinking-water quality, downstream flood risk, and agricultural insurance. I use these settings to study who benefits from farm decisions, who bears the costs, and where policy can reduce risk.\nResearch CV (PDF)\nEmail · Google Scholar · ORCID · GitHub · LinkedIn\n\n\n\n\n\n\n\n\n  Selected research\n  \n    \n      Farming and drinking-water costs\n      Who bears the cost of agricultural nitrate in public water supplies?\n    \n    \n      Farm drainage and flood damages\n      Does draining farm fields change flood risk for communities downstream?\n    \n    \n      Cover crops and planting losses\n      When do cover crops help farmers avoid losses from wet planting seasons?"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a Ph.D. candidate in Agricultural and Resource Economics at Colorado State University. I expect to earn my Ph.D. in summer 2027.\nPrior to joining Colorado State University, I earned a Master’s degree in Economics from the Institute of Business Administration (IBA), Karachi in Pakistan. My graduate training focused on econometrics, development economics, and international trade. I completed my undergraduate studies in Economics at Quaid-i-Azam University, Islamabad, Pakistan.\nDuring my PhD at Colorado State University, I have been involved in research assistantship roles. I was part of an interdisciplinary research project examining subsurface drip irrigation efficiency and deficit irrigation strategies for alfalfa production in Colorado, the Subsurface Irrigation Efficiency Project (SIEP). The project evaluated how irrigation management practices influence agricultural water use efficiency and production outcomes under water scarcity conditions."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About Me",
-    "section": "Research Interests",
-    "text": "Research Interests\nDrinking water and environmental policy. I study how agricultural land use relates to nitrate in public drinking water, which water systems bear the costs, and where conservation could help protect water supplies.\nFarm adaptation and downstream flood risk. I examine whether subsurface farm drainage, which helps producers manage excess water on their fields, changes flood damages in downstream communities.\nAgricultural conservation and production risk. I study when cover crops reduce losses from weather that prevents planting and how those benefits vary across crops and regions.\nCrop insurance and conservation incentives. I am developing research on how crop insurance coverage affects producers’ incentives to reduce production risk and whether conservation payments change those decisions.\nWater allocation and irrigation. Through my work in western Colorado, I examine how corn and alfalfa producers weigh the water savings and yield risks of deficit irrigation and how opportunities to trade water affect those choices."
+    "text": "Ph.D. Candidate in Agricultural and Resource EconomicsColorado State University\nI am an applied microeconomist working in environmental and resource economics and public policy. I study how agricultural producers respond to weather risk and policy, and how their decisions affect nearby and downstream communities.\nResearch CV (PDF)\nEmail · Google Scholar · ORCID · GitHub · LinkedIn"
   },
   {
     "objectID": "research.html",
@@ -33,5 +19,26 @@
     "title": "Research",
     "section": "Working Papers",
     "text": "Working Papers\n\nAgricultural Land Use and Nitrate in Public Drinking Water\nHow does farming affect the quality and cost of public drinking water, and who bears those costs? Using nitrate measurements from nearly 28,000 community water systems serving about 133 million people, we find that nitrate rises within weeks of rainfall in river-supplied systems with more upstream farmland. In systems that rely on wells, higher nitrate levels are associated with earlier agricultural land use. Existing agricultural land is associated with an estimated $102 million in annual water-supply costs across the systems included in the cost analysis. Groundwater systems serving fewer than 10,000 people account for 88 percent of the estimated groundwater costs. The findings can help agencies target conservation funding based on where communities get their drinking water.\n\n\nThe Heterogeneous Effects of Cover Crop Adoption on Prevented Planting Losses\nThis paper examines how the effects of cover crop adoption on prevented planting losses vary across regions, weather conditions, and cropping systems in the United States. Using data on cover crop adoption, producer-reported acreage, and local weather, we find that cover crops reduce losses in the Corn Belt, particularly during unusually wet planting seasons and in soybean production systems.\n\n\nTile Drainage and Downstream Flood Damages\nFarmers install subsurface tile drains to remove excess water from fields and reduce crop losses. These investments can also change how quickly water reaches streams during heavy rainfall, with potential consequences for downstream communities. Using flood insurance claims from FEMA’s National Flood Insurance Program and data on heavy precipitation, we examine whether upstream tile drainage affects downstream flood damages. The findings can inform how drainage policy accounts for farm-level benefits and flood risk beyond the farm."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Mutahir Sultan",
+    "section": "About Me",
+    "text": "About Me\nI expect to earn my Ph.D. from Colorado State University in summer 2027. I earned my master’s degree in economics from the Institute of Business Administration in Karachi and my bachelor’s degree in economics from Quaid-i-Azam University in Islamabad.\nAt Colorado State, I worked on the Subsurface Irrigation Efficiency Project, an interdisciplinary study of irrigation management and water scarcity for corn and alfalfa producers in western Colorado."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Assistant Positions",
+    "section": "",
+    "text": "Colorado State University\nAREC 341: Environmental Economics\nTeaching Assistant (Fall 2023)\n\n\nInstitute of Business Administration (IBA), Karachi\nECON: Principles of Microeconomics\nTeaching Assistant (Spring 2018)\nECON: Development Economics and International Trade\nTeaching Assistant (Fall 2018, Spring 2019)"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view or download my CV using the link below:\nDownload CV (PDF)"
   }
 ]
