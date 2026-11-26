@@ -101,9 +101,3 @@ I am an applied microeconomist working in environmental and resource economics a
 :::
 
 ::::
-
-## About Me {#about-me}
-
-I expect to earn my Ph.D. from Colorado State University in summer 2027. I earned my master's degree in economics from the Institute of Business Administration in Karachi and my bachelor's degree in economics from Quaid-i-Azam University in Islamabad.
-
-At Colorado State, I worked on the Subsurface Irrigation Efficiency Project, an interdisciplinary study of irrigation management and water scarcity for corn and alfalfa producers in western Colorado.

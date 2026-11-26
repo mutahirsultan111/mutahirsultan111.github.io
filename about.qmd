@@ -1,10 +1,10 @@
 ---
-title: "About Me"
+title: "Mutahir Sultan"
 search: false
 include-in-header:
   text: |
     <link rel="canonical" href="https://mutahirsultan111.github.io/">
-    <meta http-equiv="refresh" content="0; url=index.html#about-me">
+    <meta http-equiv="refresh" content="0; url=index.html">
 ---
 
-[Read About Me on the homepage](index.qmd#about-me).
+[Go to the homepage](index.qmd).
