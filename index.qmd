@@ -1,7 +1,81 @@
 ---
 title: ""
 pagetitle: "Mutahir Sultan | Applied Microeconomist"
-description: "Mutahir Sultan is a Ph.D. candidate at Colorado State University. His research focuses on applied microeconomics, environmental risk, and public policy."
+description: "Mutahir Sultan is a Ph.D. candidate at Colorado State University. Research focuses on applied microeconomics, environmental risk, and public policy."
+include-in-header:
+  text: |
+    <style>
+      body:has(.job-market-home) {
+        background: #f4f1e9;
+        color: #25312b;
+      }
+      body:has(.job-market-home) .navbar {
+        background: #f4f1e9 !important;
+        border-bottom: 1px solid #dedbd1;
+      }
+      .job-market-home {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) clamp(145px, 23vw, 200px);
+        align-items: start;
+        gap: clamp(1.75rem, 5vw, 3.5rem);
+        padding: clamp(1.75rem, 6vw, 4.25rem) 0;
+      }
+      .job-market-home .job-market-intro h1 {
+        font-family: Georgia, serif;
+        font-size: clamp(2.6rem, 6vw, 4rem);
+        color: #24372d;
+        margin: 0 0 .8rem;
+      }
+      .job-market-home .job-market-affiliation {
+        display: inline-block;
+        color: #485b50;
+        font-size: .95rem;
+        line-height: 1.5;
+        font-weight: 600;
+        margin-bottom: .6rem;
+      }
+      .job-market-home .job-market-intro p {
+        line-height: 1.7;
+      }
+      .job-market-home .job-market-portrait img {
+        display: block;
+        width: 100%;
+        max-width: none;
+        height: auto;
+        border: 1px solid #c9d2c5;
+        border-radius: .4rem;
+        background: #fff;
+        padding: .35rem;
+      }
+      .job-market-home .job-market-intro a:not(.btn) {
+        color: #315947;
+        text-underline-offset: .18em;
+      }
+      .job-market-home .btn-primary {
+        --bs-btn-bg: #315947;
+        --bs-btn-border-color: #315947;
+        --bs-btn-hover-bg: #244536;
+        --bs-btn-hover-border-color: #244536;
+      }
+      .job-market-home .btn-outline-primary {
+        --bs-btn-color: #315947;
+        --bs-btn-border-color: #315947;
+        --bs-btn-hover-bg: #315947;
+        --bs-btn-hover-border-color: #315947;
+      }
+      @media (max-width: 600px) {
+        .job-market-home {
+          grid-template-columns: minmax(0, 1fr);
+          gap: 1.25rem;
+        }
+        .job-market-home .job-market-portrait {
+          grid-row: 1;
+        }
+        .job-market-home .job-market-portrait img {
+          width: 116px;
+        }
+      }
+    </style>
 ---
 
 :::: {.job-market-home}
@@ -10,7 +84,7 @@ description: "Mutahir Sultan is a Ph.D. candidate at Colorado State University. 
 
 # Mutahir Sultan
 
-[Ph.D. Candidate in Agricultural and Resource Economics · Colorado State University]{.job-market-affiliation}
+[Ph.D. Candidate in Agricultural and Resource Economics<br>Colorado State University]{.job-market-affiliation}
 
 I am an applied microeconomist working in environmental and resource economics and public policy. I study how agricultural producers respond to weather risk and policy, and how their decisions affect nearby and downstream communities.
 
