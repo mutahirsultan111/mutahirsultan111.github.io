@@ -4,6 +4,7 @@ pagetitle: "Mutahir Sultan | Applied Microeconomist"
 description: "Mutahir Sultan is a Ph.D. candidate at Colorado State University. Research focuses on applied microeconomics, environmental risk, and public policy."
 include-in-header:
   text: |
+    <meta name="google-site-verification" content="n3O7-O_8PJtid_EWnvU03zsB78QGnurCPAy5-OYN1PU" />
     <style>
       body:has(.job-market-home) {
         background: #faf8f2;
