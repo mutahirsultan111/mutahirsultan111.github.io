@@ -6,7 +6,7 @@ include-in-header:
   text: |
     <style>
       body:has(.job-market-home) {
-        background: #f4f1e9;
+        background: #faf8f2;
         color: #25312b;
       }
       body:has(.job-market-home) .navbar {
@@ -18,11 +18,11 @@ include-in-header:
         grid-template-columns: minmax(0, 1fr) clamp(145px, 23vw, 200px);
         align-items: start;
         gap: clamp(1.75rem, 5vw, 3.5rem);
-        padding: clamp(1.75rem, 6vw, 4.25rem) 0;
+        padding: clamp(1.75rem, 5vw, 3.3rem) 0 clamp(1.5rem, 4vw, 2.5rem);
       }
       .job-market-home .job-market-intro h1 {
         font-family: Georgia, serif;
-        font-size: clamp(2.6rem, 6vw, 4rem);
+        font-size: clamp(2.8rem, 6vw, 4.25rem);
         color: #24372d;
         margin: 0 0 .8rem;
       }
@@ -43,9 +43,9 @@ include-in-header:
         max-width: none;
         height: auto;
         border: 1px solid #c9d2c5;
-        border-radius: .4rem;
+        border-radius: .6rem;
         background: #fff;
-        padding: .35rem;
+        padding: .35rem; box-shadow: 7px 7px 0 #d9e2d2;
       }
       .job-market-home .job-market-intro a:not(.btn) {
         color: #315947;
@@ -63,6 +63,15 @@ include-in-header:
         --bs-btn-hover-bg: #315947;
         --bs-btn-hover-border-color: #315947;
       }
+      .home-research { border-top: 1px solid #d9dfd3; padding: 1.4rem 0 2.5rem; }
+      .home-research h2 { font-family: Georgia, serif; font-size: 1.6rem; margin: 0 0 1.1rem; border: 0; }
+      .research-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .85rem; }
+      .research-card { display: block; padding: 1.05rem; color: #25312b; background: #f0f3eb; border: 1px solid #dae1d4; border-radius: .55rem; text-decoration: none; line-height: 1.5; }
+      .research-card strong { display: block; margin-bottom: .45rem; color: #234735; }
+      .research-card span { display: block; font-size: .92rem; }
+      .research-card:hover, .research-card:focus-visible { background: #e3ebdd; border-color: #658373; color: #25312b; }
+      .research-card:focus-visible { outline: 2px solid #315947; outline-offset: 2px; }
+      @media (max-width: 700px) { .research-grid { grid-template-columns: 1fr; } }
       @media (max-width: 600px) {
         .job-market-home {
           grid-template-columns: minmax(0, 1fr);
@@ -88,7 +97,7 @@ include-in-header:
 
 I am an applied microeconomist working in environmental and resource economics and public policy. I study how agricultural producers respond to weather risk and policy, and how their decisions affect nearby and downstream communities.
 
-My current work examines who bears the costs of agricultural nitrate in public drinking water, how farm drainage affects downstream flood risk, and when conservation practices reduce crop losses. I am also developing research on how crop insurance and conservation programs shape producers’ incentives to manage risk.
+My work focuses on drinking-water quality, downstream flood risk, and agricultural insurance. I use these settings to study who benefits from farm decisions, who bears the costs, and where policy can reduce risk.
 
 [Research](research.qmd){.btn .btn-primary} [CV (PDF)](Mutahir_Sultan_CV.pdf){.btn .btn-outline-primary}
 
@@ -103,3 +112,21 @@ My current work examines who bears the costs of agricultural nitrate in public d
 :::
 
 ::::
+
+<section class="home-research" aria-labelledby="selected-research">
+  <h2 id="selected-research">Selected research</h2>
+  <div class="research-grid">
+    <a class="research-card" href="research.html#agricultural-land-use-and-nitrate-in-public-drinking-water">
+      <strong>Farming and drinking-water costs</strong>
+      <span>Who bears the cost of agricultural nitrate in public water supplies?</span>
+    </a>
+    <a class="research-card" href="research.html#tile-drainage-and-downstream-flood-damages">
+      <strong>Farm drainage and flood damages</strong>
+      <span>Does draining farm fields change flood risk for communities downstream?</span>
+    </a>
+    <a class="research-card" href="research.html#the-heterogeneous-effects-of-cover-crop-adoption-on-prevented-planting-losses">
+      <strong>Cover crops and planting losses</strong>
+      <span>When do cover crops help farmers avoid losses from wet planting seasons?</span>
+    </a>
+  </div>
+</section>
